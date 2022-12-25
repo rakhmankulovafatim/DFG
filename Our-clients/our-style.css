@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.header_top{
+    width: 1140px;
+}
+.header_top img{
+    margin-left: -80px;
+}
+.header_top p{
+    font-size: 10px;
+    color: #2979FF;
+    margin-top: 20px;
+}
+.header-top-img{
+    width: 50px;
+    height: 50px;
+}
+.header_right{
+    display: flex;
+}
+.header_right button{
+    padding: 15px 37px;
+    gap: 10px;
+    background: #FFFFFF;
+    border: 2px solid #2979FF;
+    border-radius: 8px;
+    color: #2979FF;
+    column-gap: 10px;
+    margin-left: 30px;
+    align-items: center;
+
+}
+.header_top{
+    display: flex;
+    justify-content: space-around;
+}
+.header_right ul{
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+    column-gap: 10px;
+    margin-top: 15px;
+}
+
+.blue{
+    color: #2979FF;
+}
+.our-clients{
+    display: flex;
+}
+.let-talk-text{
+    /*margin-left: 500px;*/
+    /*font-size: 30px;*/
+    /*margin-top: 114px;*/
+    /*margin-bottom: 40px;*/
+    /*margin-right: 180px;*/
+}
+.our-clients-title h1{
+    width: 214px;
+    height: 48px;
+    margin-left: 300px;
+    margin-top: 114px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.let-talk-text{
+    width: 870px;
+    height: 82px;
+    left: 489px;
+    display: flex;
+    background: rgba(41, 121, 255, 0.09);
+    margin: 40px 800px 100px 300px;
+
+}
+.let-talk-text button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 42px;
+    gap: 10px;
+    border: none;
+    color: white;
+    width: 192px;
+    height: 56px;
+    background: #2979FF;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.let-talk-text p{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 11px;
+}
+.our-clients-img{
+    margin-left: 180px;
+    display: flex;
+    column-gap: 30px;
+}
+.our-clients-img img:hover{
+    transform: scale(2.2);
+}
+
+              /*users*/
+
+.sec5-user{
+    margin-top: 20px;
+    column-gap: 10px;
+    display: flex;
+}
+.user-right-card{
+    display: flex;
+}
+.user-left{
+    width: 500px;
+    height: 300px;
+    background: #F7F8F7;
+}
+.user-left-text{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+}
+.user-right-text{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+}
+.user-right{
+    width: 500px;
+    height: 300px;
+    background: #F7F8F7;
+}
+.sec4 button{
+    background: #2979FF;
+    border-radius: 8px;
+    color: white;
+    padding: 18px 42px;
+    gap: 10px;
+    border: none;
+    margin-left: 300px;
+}
+.sec4{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.sec4 h4{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
+.sec4-user img{
+    Width: 123px;
+    Height: 123px;
+}
+.user-left-card{
+    display: flex;
+}
+.user-right-title{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.user-right-title p{
+    margin-top: 10px;
+}
+
+.user-left-title{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.user-left-title p{
+    margin-top: 10px;
+}
